@@ -1,0 +1,15 @@
+    FONCTIONNEMENT DE L'APPLICATION
+
+    - Au lancement de l'appli, vous avez la page Login, cliquer sur inscription
+
+    - Sur la page Signin, inscrivez vous avec le status ADMIN
+
+    - Commencer par créér vos membres d'équipe en cliquant sur membres
+
+    - Créér vos projets en cliquant sur Projets, puis ajouter des taches 
+
+    - Tableau de bord, montre une vue d'ensemble sur les projets, taches assignées ainsi que leur progression
+
+    - Chaque membre peut alors faire la tache en cliquant sur taches
+
+    - Un systeme de commentaire sur la page Taches, permettant la communication entre membre.
